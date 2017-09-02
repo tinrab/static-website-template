@@ -1,1 +1,1 @@
-# site
+# Static Website Template
